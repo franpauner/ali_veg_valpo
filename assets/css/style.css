@@ -1,3 +1,32 @@
 #form1{
-    margin-top: 15%;
+    margin-top: 15%;}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.row{
+    margin-top: 30px;
+}
+.carta:hover{
+    box-shadow: 0px 0px 20px black;
+    transition: 0.4s;
+}
+nav,.btn{
+    background-color:rgb(132, 218, 85);
+    border: none;
+}
+nav a{
+    color: black;
+}
+.btn:hover , #botonver:hover{
+    background-color:rgb(218, 85, 205);
+
+}
+.row:last-child{
+    margin-bottom: 10px;
+}
+#botonver{
+    background-color:rgb(132, 218, 85);
+    margin-bottom: 10px;
+    margin-left: 20px;
 }
