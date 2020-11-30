@@ -30,3 +30,9 @@ nav a{
     margin-bottom: 10px;
     margin-left: 20px;
 }
+#img01{
+    padding-top: 5%;
+    border-style: solid;
+    border-radius: 2%;
+    border-color: pink;
+}
